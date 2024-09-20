@@ -1,0 +1,98 @@
+body, h1, p{
+    margin: 0;
+    pudding: 0;
+}
+header{
+    background-color: rgb(171, 92, 92);
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+}
+nav{
+    text-align: center;
+    background-color: rgb(172, 119, 119);
+    padding: 10px;
+}
+nav a{
+    color: azure;
+        margin: 10px;
+        text-decoration:none;
+} 
+.Showcase{
+    max-width: 100%;
+    margin: 10px;
+    box-shadow:0 0 5px rgba(0, 0, 0, 0.2);
+    padding: 5px; 
+}
+main{
+    padding: 20px;
+    box-shadow:0 0 5px rgba(95, 93, 93, 0.2);
+    color: rgb(136, 99, 99);
+}
+
+.card1{
+    border: 2px solid;
+    background-color:  rgb(240, 237, 237);
+    margin: 10px;
+    padding: 20px;
+    border-color: rgb(210, 107, 107);
+}
+.card2{
+    border: 2px solid;
+    background-color:   rgb(240, 237, 237);
+    margin: 10px;
+    padding: 20px;
+    border-color:  rgb(210, 107, 107);
+}
+.card3{
+    border: 2px solid;
+    background-color:  rgb(240, 237, 237);
+    margin: 10px;
+    padding: 20px;
+    border-color:  rgb(210, 107, 107);
+}
+footer{
+    background-color:  rgb(176, 68, 68);
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+}
+.heading1{
+    color:rgb(155, 4, 4);
+}
+.heading2{
+    color: rgb(179, 59, 3);
+}
+.method{
+    color:  rgb(179, 59, 3);
+}
+.heading4{
+    color:rgb(155, 4, 4);
+}
+.heading5{
+    color:  rgb(179, 59, 3);
+}
+.heading6{
+    color: rgb(179, 59, 3);
+}
+.heading7{
+    color:rgb(155, 4, 4);
+}
+.heading8{
+    color:  rgb(179, 59, 3);
+}
+.heading9{
+    color:  rgb(179, 59, 3);
+}
+.enjoy1{
+    color: rgb(210, 111, 5);
+}
+.enjoy2{
+    color:  rgb(210, 111, 5);;
+}
+.enjoy3{
+    color:  rgb(210, 111, 5);;
+}
+.feature{
+    color: rgb(187, 3, 3);
+}
